@@ -4,9 +4,9 @@
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
-**Proyecto Final - Data Science | Academia Desafío Latam**  
+**Proyecto Data Science**  
 **Nombre:** Kattya Contreras  
-**Módulo:** Machine Learning | **Sección:** G101  
+**Contenido:** Machine Learning
 
 ---
 
